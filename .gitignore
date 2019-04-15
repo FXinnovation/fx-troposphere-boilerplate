@@ -1,0 +1,6 @@
+CloudFormation.json
+.coverage
+htmlcov
+**/__pycache__
+Reports
+virtualenv
